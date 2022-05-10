@@ -130,7 +130,7 @@ const AddContact = () => {
                                         name="groupId"
                                         value={contact.groupId}
                                         onChange={updateInput}
-                                        required={true}
+                                        // required={true}
                                         className='form-control'>
                                         <option value="">Select a Group</option>
                                         {
