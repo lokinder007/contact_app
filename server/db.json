@@ -1,0 +1,71 @@
+
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Lokinder Singh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0g8R5VmgqDqpRCwQfw2Y9V-DM-iXS59R9hQ&usqp=CAU",
+      "mobile": "9876546787",
+      "email": "loki@gmail.com",
+      "company": "YouTube",
+      "title": "Youtuber",
+      "groupId": "2"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Himadri",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEdEpfGe_tzSy2v2Wq-rA8gL3G_V1WVPEIsQ&usqp=CAU",
+      "mobile": "8880009991",
+      "email": "hima@gmail.com",
+      "company": "Freelace",
+      "title": "freelancer",
+      "groupId": "3"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Pushpender Singh",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "mobile": "9876546787",
+      "email": "push@gmail.com",
+      "company": "Infosys",
+      "title": "Electrician",
+      "groupId": "4"
+    },
+    {
+      "id": "hU7iaWZ",
+      "name": "DP Singh",
+      "photo": "https://png.pngtree.com/png-clipart/20190922/original/pngtree-business-male-user-avatar-vector-png-image_4774078.jpg",
+      "mobile": "8468092173",
+      "email": "dps@gmail.com",
+      "company": "Dp Tech",
+      "title": "Web Developer",
+      "groupId": "2"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
